@@ -30,7 +30,7 @@ List of popular Ui-Kit´s and frameworks with their nativ availability for the m
 
 ## App Ui
 
-**desktop like apps and data visulation**
+**desktop like apps and data visualization**
 
 ---
 
