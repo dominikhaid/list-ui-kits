@@ -15,14 +15,14 @@ List of popular Ui-Kit´s and frameworks with their nativ availability for the m
 | [Ant-Design](https://ant.design/)                          | [ X ] | [ X ]   | [ X ] | **5**  |
 | [Material-Design](https://material.io/)                    | [ X ] | [ X ]   | [ X ] | **5**  |
 | [Semantic-Ui](https://semantic-ui.com/)                    | [ X ] | [ X ]   | [ X ] | **4**  |
-| [Element](https://element.eleme.io/)                       | [ X ] | [ X ]   | [ ]   | **4**  |
-| [Fluent](https://developer.microsoft.com/de-de/fluentui#/) | [ X ] | [ ]     | [ ]   | **4**  |
+| [Bootstrap](https://getbootstrap.com/)                     | [ X ] | [ X ]   | [ X ] | **3**  |
+| [Fluent](https://developer.microsoft.com/de-de/fluentui#/) | [ X ] | [ ]     | [ ]   | **3**  |
 
 ### Other
 
 | Ui-Kit                                 | REACT | ANGULAR | VUE   | RATING |
 | -------------------------------------- | ----- | ------- | ----- | ------ |
-| [Bootstrap](https://getbootstrap.com/) | [ X ] | [ X ]   | [ X ] | **3**  |
+| [Element](https://element.eleme.io/)   | [ X ] | [ X ]   | [ ]   | **2**  |
 | [bluma](https://bulma.io/)             | [ ]   | [ ]     | [ ]   | **4**  |
 | [Buefy](https://buefy.org/)            | [ ]   | [ ]     | [ X ] | **4**  |
 | [Ui-kit](https://getuikit.com)         | [ ]   | [ ]     | [ ]   | **3**  |
